@@ -1,1 +1,1 @@
-# Analiza_wska-nika_-miertelno-ci_przez_zanieczyszczenie_powietrza_EDA
+# Analiza wskaźnika śmiertelności przez zanieczyszczenie powietrza EDA
